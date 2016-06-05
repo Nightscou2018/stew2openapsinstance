@@ -1,0 +1,43 @@
+[
+  {
+    "_type": "Model522ResultTotals", 
+    "_description": "Model522ResultTotals 2016-06-05T00:00:00 head[1], body[41] op[0x6d]", 
+    "timestamp": "2016-06-05T00:00:00", 
+    "_body": "0608002b0000000005280528640000000000000000000000000000000000000000000008002b000000", 
+    "_head": "6d", 
+    "_date": "6410"
+  }, 
+  {
+    "_type": "ResultDailyTotal", 
+    "_description": "ResultDailyTotal 2016-06-05T00:00:00 head[5], body[0] op[0x07]", 
+    "timestamp": "2016-06-05T00:00:00", 
+    "_body": "", 
+    "valid_date": "2016-06-04", 
+    "_head": "0700000528", 
+    "_date": "6410"
+  }, 
+  {
+    "_type": "Battery", 
+    "_description": "Battery 2016-06-04T22:55:47 head[2], body[0] op[0x1a]", 
+    "timestamp": "2016-06-04T22:55:47", 
+    "_body": "", 
+    "_head": "1a01", 
+    "_date": "6fb7160410"
+  }, 
+  {
+    "_type": "Battery", 
+    "_description": "Battery 2016-06-04T22:55:30 head[2], body[0] op[0x1a]", 
+    "timestamp": "2016-06-04T22:55:30", 
+    "_body": "", 
+    "_head": "1a01", 
+    "_date": "5eb7160410"
+  }, 
+  {
+    "_type": "Battery", 
+    "_description": "Battery 2016-06-04T22:54:40 head[2], body[0] op[0x1a]", 
+    "timestamp": "2016-06-04T22:54:40", 
+    "_body": "", 
+    "_head": "1a00", 
+    "_date": "68b6160410"
+  }
+]
