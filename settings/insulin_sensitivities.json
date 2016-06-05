@@ -1,0 +1,42 @@
+{
+  "units": "mg/dL", 
+  "user_preferred_units": "mmol/L", 
+  "sensitivities": [
+    {
+      "i": 0, 
+      "start": "00:00:00", 
+      "sensitivity": 21.599999999999998, 
+      "x": 0, 
+      "offset": 0
+    }, 
+    {
+      "i": 10, 
+      "start": "05:00:00", 
+      "sensitivity": 19.8, 
+      "x": 1, 
+      "offset": 300
+    }, 
+    {
+      "i": 20, 
+      "start": "10:00:00", 
+      "sensitivity": 19.8, 
+      "x": 2, 
+      "offset": 600
+    }, 
+    {
+      "i": 32, 
+      "start": "16:00:00", 
+      "sensitivity": 18.0, 
+      "x": 3, 
+      "offset": 960
+    }, 
+    {
+      "i": 42, 
+      "start": "21:00:00", 
+      "sensitivity": 21.599999999999998, 
+      "x": 4, 
+      "offset": 1260
+    }
+  ], 
+  "first": 2
+}
